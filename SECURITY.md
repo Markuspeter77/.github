@@ -1,4 +1,4 @@
-Thanks for helping make GitHub safe for everyone.
+gh repo clone github/.githubThanks for helping make GitHub safe for everyone.
 
 ## Security
 
